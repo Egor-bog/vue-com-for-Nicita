@@ -1,1 +1,1 @@
-# vue-com-for-Nicita
+# https://Egor-bog.github.io/vue-com-for-Nicita/
